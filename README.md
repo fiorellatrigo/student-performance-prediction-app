@@ -4,7 +4,7 @@
   <img src="notebook/img/confusion_matrix.png" width="500">
 </p>
 
-> **Live Demo:** [Try the deployed app on Render](https://student-tier-prediction.onrender.com/predict)
+> **Live Demo:** [Try the deployed app on Render](https://student-tier-prediction.onrender.com/)
 
 ## 1. The Problem
 
